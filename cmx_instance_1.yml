@@ -13,5 +13,5 @@ applications:
     number: 1
   - name: appA.0.2
     number: 2
-  - name: appA.0.3
+  - name: appA.0.4
     number: 3
