@@ -1,5 +1,5 @@
 applications:
 - name: appA
   versions:
-  - name: appA.0.1
+  - name: appA.0.111
     number: 1
