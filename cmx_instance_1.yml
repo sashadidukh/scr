@@ -3,15 +3,3 @@ applications:
   versions:
   - name: appA.0.1
     number: 1
-  - name: appA.0.2
-    number: 2
-  - name: appA.0.3
-    number: 3
-- name: appB
-  versions:
-  - name: appA.0.1
-    number: 1
-  - name: appA.0.2
-    number: 2
-  - name: appA.0.4
-    number: 33
