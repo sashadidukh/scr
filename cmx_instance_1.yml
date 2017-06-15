@@ -3,3 +3,7 @@ applications:
   versions:
   - name: appA.0.1
     number: 1
+- name: appA
+  versions:
+  - name: appA.0.1
+    number: 1
